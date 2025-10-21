@@ -161,3 +161,4 @@ Concepts: ELT (Extract, Load, Transform)
 Dataset: Netflix Titles Dataset (from Kaggle)
 
 ## Images
+![avg_duration result_image](/image/first.png)
