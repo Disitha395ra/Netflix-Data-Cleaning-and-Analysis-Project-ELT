@@ -162,3 +162,5 @@ Dataset: Netflix Titles Dataset (from Kaggle)
 
 ## Images
 ![avg_duration result_image](/images/first.png)
+![highest_no_of_commedy_movies_country](/images/two.png)
+![directors_movies](/images/three.png)
